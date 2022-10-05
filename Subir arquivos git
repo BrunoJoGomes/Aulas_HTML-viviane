@@ -1,0 +1,16 @@
+## Primeira vez
+git init
+git add .
+git commit -m ""
+git remote add origin URL
+git push -u origin master
+
+## Atualizar
+git init
+git add .
+git commit -m ""
+git push -u origin master
+
+## Clonar repostório
+no cmd entrar na pasta desejada
+git clone (link)
