@@ -1,0 +1,40 @@
+body{
+    background-image: url("images/Tesla-imagem.webp");
+    /* background-repeat: no-repeat */
+    /* background-size: cover; */
+
+}
+header{
+    background-color: #8a817c;
+}
+
+footer{
+    background-color: #bcb8b1;
+}
+h1{
+    color:white;
+    font-size: 50px;
+    border-style: double;
+    border-color: black;
+    border-width: 10px;
+    /* border: double black 10px */
+}
+
+/* trocar cor de apenas uma tag (li) */
+.carro1{
+    color:greenyellow;
+}
+
+#bloco{
+    color:aliceblue;
+}
+
+/* seletor de descendência - elemento pai (exemplo) mudar cor apenas do elemento parágrafo  */
+#exemplo p {
+    color:red;
+}
+
+#exemplo ul {
+    color: pink;
+}
+
