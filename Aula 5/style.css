@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Ubuntu+Mono:ital@1&display=swap');
+
+body{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: larger;
+    line-height: 30px;
+    text-align: center;
+} */
+
+.container{
+    border: 10px red double;
+    padding: 20px 10px 5px 50px;
+    /* padding sentido horario */
+    width: 50%;
+}
+
+.box{
+    border: 10px yellow solid;
+    padding: 50px 20px 10px 5px;
+    margin-top: 200px;
+    width: 50%;
+}
