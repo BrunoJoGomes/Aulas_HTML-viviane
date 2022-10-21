@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    padding: 70px 200px 60px 200px;
+}
+
+
+.titulo h2{
+    font-family: 'Tangerine', cursive;
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.titulo h5{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 90px 25px 90px 25px;
+}
+
+.texto1{
+    height: 423px;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+}
+
+
+.imagem_maquina{
+    background-image: url(../images/analytical_engine_lg.jpg);
+    height: 423px;
+    width: 452px;
+}
+
+.box2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 0px;
+}
+
+.texto2{
+    height: 423px;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    margin-left: 0px;
+}
+
+.box3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 60px;
+}
