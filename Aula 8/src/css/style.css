@@ -48,9 +48,9 @@ body{
 .texto1{
     height: 423px;
     max-width: 500px;
+    font-size: larger;
     display: flex;
     align-items: center;
-    font-size: larger;
 }
 
 
