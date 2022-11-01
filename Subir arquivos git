@@ -14,3 +14,7 @@ git push -u origin master
 ## Clonar repostório
 no cmd entrar na pasta desejada
 git clone (link)
+
+# Configurar usuario no git na maquina
+git config --global user.name "nome de usuario"
+git config --global user.email "email"
